@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "publishedAt": "2026-04-23T00:00:00Z",
+  "url": "https://github.com/TU_USUARIO_GITHUB/TU_REPO/releases/download/v1.0.0/DS4Eli.Setup.exe",
+  "sha256": "REEMPLAZA_SHA256_HEX_64",
+  "size": 0,
+  "minLauncherVersion": "1.0.0",
+  "notes": "## DS4 ELI (plantilla de update)\n\n1) Sube tu instalador firmado como asset en GitHub Releases.\n2) Actualiza `version` (debe ser mayor que la del launcher).\n3) Pega `url` del asset.\n4) Calcula `sha256` y `size` con PowerShell:\n   .\\tools\\release\\ds4eli_release_tools.ps1 -FilePath .\\ruta\\instalador.exe\n5) Copia `signer_thumbprint` a `launcher.appsettings.json` -> `ExpectedSignerThumbprint` (opcional pero recomendado).\n",
+  "history": []
+}
