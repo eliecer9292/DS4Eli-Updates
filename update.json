@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publishedAt": "2026-04-24T12:00:00Z",
-  "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.2/1.0.2.zip",
-  "sha256": "34ad6a3874a4c985329df05f56de5697f17fa0b4384bec329c606c8031753105",
+  "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.3/1.0.3.zip",
+  "sha256": "e65cc73bb9914470587424436d3ffc49b5ac7834b5e076277eff14cb69e426e4",
   "size": 0,
   "minLauncherVersion": "1.0",
-  "notes": "1.0.2 — PRUEBA DE UPDATE",
+  "notes": "1.0.3 — PRUEBA DE UPDATE",
   "history": []
 }
