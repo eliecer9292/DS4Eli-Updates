@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "publishedAt": "2026-04-24T00:00:00Z",
+  "publishedAt": "2026-04-24T12:00:00Z",
   "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.0/DS4Eli.Setup.exe",
   "sha256": "0000000000000000000000000000000000000000000000000000000000000001",
   "size": 1,
   "minLauncherVersion": "1.0",
-  "notes": "v1.0.0 — Bloque app = ZIP de DS4Windows. Los campos url/sha256/size de nivel superior son para el instalador del launcher (Actualizar); cuando subas un DS4Eli.Setup.exe real al release, sustitúyelos por URL, SHA y tamaño reales (ds4eli_release_tools.ps1 sobre el .exe).",
+  "notes": "v1.0.0 — SHA del ZIP recalculado desde el asset DS4Eli-App-Release-1.0.zip del release v1.0.0 (integridad). Sustituye url/sha256/size de nivel superior cuando tengas DS4Eli.Setup.exe real en el release.",
   "app": {
     "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.0/DS4Eli-App-Release-1.0.zip",
-    "sha256": "b215097be2c6e4462f4cac2ca49d01d7d9410c22c99dd7f2cb0fe7d141bdd738"
+    "sha256": "6f8271de9a071e08db3d8d9d992142a29d269c44af0027ae8956de84b4a7a9ad"
   },
   "history": []
 }
