@@ -7,7 +7,7 @@
   "minLauncherVersion": "1.0",
   "notes": "v1.0.0 — Bloque app = ZIP de DS4Windows. Los campos url/sha256/size de nivel superior son para el instalador del launcher (Actualizar); cuando subas un DS4Eli.Setup.exe real al release, sustitúyelos por URL, SHA y tamaño reales (ds4eli_release_tools.ps1 sobre el .exe).",
   "app": {
-    "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.0/DS4Eli-App-Release-v1.0.zip",
+    "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.0/DS4Eli-App-Release-1.0.zip",
     "sha256": "b215097be2c6e4462f4cac2ca49d01d7d9410c22c99dd7f2cb0fe7d141bdd738"
   },
   "history": []
