@@ -8,7 +8,7 @@
   "notes": "v1.0.0 — SHA del ZIP recalculado desde el asset DS4Eli-App-Release-1.0.zip del release v1.0.0 (integridad). Sustituye url/sha256/size de nivel superior cuando tengas DS4Eli.Setup.exe real en el release.",
   "app": {
     "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.0/DS4Eli-App-Release-1.0.zip",
-    "sha256": "36ebaed6227457b7ef65881b349bba400071da5594d36deb4c3796fa12e31937"
+    "sha256": "c1093ebf648c9e1a13188741389cce1d74c360c3c55db8ae5c84dc4a7ab5159b"
   },
   "history": []
 }
