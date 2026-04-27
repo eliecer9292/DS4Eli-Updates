@@ -2,8 +2,7 @@
   "version": "1.0.4",
   "publishedAt": "2026-04-24T12:00:00Z",
   "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.4/1.0.4.zip",
-  "sha256": "2b667aa870240af1e5da1260beb47e95ee9d1378da39230e12f2ba5829897d40",
-  "size": 0,
+  "sha256": "eaa3d8fc9265079b098c9953deb92fe87853b2ef006cd74708121d7e14d2264d",
   "minLauncherVersion": "1.0",
   "notes": "1.0.4 — 🚀 DS4 ELI / Macro Extension — v1.0.4
 
@@ -55,5 +54,8 @@ Ahora compatible directamente con:
 -Corrección de errores en sincronización de perfiles
 -Arreglos en sistema de bandeja y cierre de la app
 -Mejor manejo en primer arranque sin perfil",
-  "history": []
+  "app": {
+    "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.4/1.0.4.zip",
+    "sha256": "eaa3d8fc9265079b098c9953deb92fe87853b2ef006cd74708121d7e14d2264d"
+  }
 }
