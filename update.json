@@ -1,10 +1,59 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publishedAt": "2026-04-24T12:00:00Z",
-  "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/v1.0.3/1.0.3.zip",
-  "sha256": "e65cc73bb9914470587424436d3ffc49b5ac7834b5e076277eff14cb69e426e4",
+  "url": "https://github.com/eliecer9292/DS4Eli-Updates/releases/download/1.0.4/1.0.4.zip",
+  "sha256": "2b667aa870240af1e5da1260beb47e95ee9d1378da39230e12f2ba5829897d40",
   "size": 0,
   "minLauncherVersion": "1.0",
-  "notes": "1.0.3 — PRUEBA DE UPDATE",
+  "notes": "1.0.3 — 🚀 DS4 ELI / Macro Extension — v1.0.0
+
+Después de mucho trabajo, esta actualización incluye mejoras importantes, nuevas funciones y optimizaciones generales.
+
+✨ Nuevas funciones
+-Botón Macro Extension integrado directamente en DS4Windows
+-Sistema de macros mejorado con nuevas herramientas internas
+-Recorder para validar secuencias de macros
+-Carga de macros desde ensamblados
+-Nuevo Launcher / Loader con:
+-Activación de licencia
+-Estado y tiempo restante
+-Actualizaciones automáticas
+-Sección de novedades, ajustes y ayuda
+  
+⚙️ Funciones integradas
+🔫 Rapid Fire
+🎯 Aim Assist inteligente (no es IA)
+⚡ Anti saturación
+🎮 Anti recoil configurable (izquierda / derecha)
+  
+🧰 Nuevo menú de utilidades
+-Modo streamer / anti captura
+-Bloqueo de clics accidentales (PS / Touchpad)
+-Crosshair Pack
+-HUD Mini (overlay en tiempo real)
+-Test Panel
+-Sistema de temas personalizables
+  
+📈 Mejoras importantes
+-Mejor sincronización de perfiles y sistema de macros
+-Optimización general de rendimiento
+-Aim Assist más suave, estable y optimizado
+-Reducción del “temblor” de la mira cuando no apuntas
+  
+🎮 Compatibilidad ampliada
+Ahora compatible directamente con:
+
+-Mandos de PlayStation
+-Mandos de Xbox
+-Mandos Gamesir
+-Posible compatibilidad con Scuf Envision Pro (en pruebas)
+
+👉 Ya no necesitas activar mando virtual ni hacer procesos complicados
+
+🛠️ Correcciones
+-Mejor estabilidad al abrir Macro Extension
+-Corrección de errores en sincronización de perfiles
+-Arreglos en sistema de bandeja y cierre de la app
+-Mejor manejo en primer arranque sin perfil",
   "history": []
 }
